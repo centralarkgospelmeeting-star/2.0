@@ -1,0 +1,6 @@
+{
+  "name": "MesoVortexWX - Professional Weather Intelligence & Radar Workstation",
+  "description": "Next-generation weather intelligence workstation featuring live NEXRAD radar, Doppler velocity, dual-pol analysis, SPC outlooks, Skew-T soundings, METAR/TAF, and AI weather briefing.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
